@@ -1,4 +1,13 @@
+# 主站
 DOMAIN-SUFFIX,iyf.tv
-DOMAIN-SUFFIX,aiyifan.tv
 DOMAIN-SUFFIX,iyfapp.com
+
+# 常见前端/接口
 DOMAIN-KEYWORD,iyf
+DOMAIN-KEYWORD,yifan
+
+# 视频 / CDN（爱一帆常见）
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,alibabausercontent.com
