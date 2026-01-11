@@ -3,12 +3,11 @@ DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,aiyifan.tv
 DOMAIN-SUFFIX,yfsp.tv
 DOMAIN-SUFFIX,iyfapp.com
+DOMAIN-SUFFIX,anygate.vip
+DOMAIN-SUFFIX,global-cdn.me
+DOMAIN-SUFFIX,global.dudupro.com
 
 # 常见前端/接口
 DOMAIN-KEYWORD,iyf
 DOMAIN-KEYWORD,yifan
 DOMAIN-KEYWORD,yfsp
-
-DOMAIN-SUFFIX,anygate.vip
-DOMAIN-SUFFIX,global-cdn.me
-DOMAIN-SUFFIX,global.dudupro.com
